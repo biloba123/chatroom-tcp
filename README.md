@@ -19,8 +19,8 @@
 2)显示在线状态：将该用户的状态发给各在线用户。\
 3)转发聊天信息：将消息转发给所有在线的用户。
 
-![](https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212715.png)
-![](https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212732.png)
-![](https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212828.png)
-![](https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212834.png)
+<img src="https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212715.png" width="280"/>
+<img src="https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212732.png" width="280"/>
+<img src="https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212828.png" width="280"/>
+<img src="https://github.com/biloba123/chatroom-tcp/blob/master/imgs/Screenshot_20180627-212834.png" width="280"/>
 
